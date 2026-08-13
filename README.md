@@ -114,8 +114,8 @@ Trabalho com foco em responsabilidade técnica, clareza documental, segurança, 
 
 ## 📫 Contato
 
-- **LinkedIn:** [adicione aqui o endereço do seu perfil](https://www.linkedin.com/)
-- **E-mail:** adicione aqui seu e-mail profissional
+- **LinkedIn:** https://www.linkedin.com/in/jovanikz/
+- **E-mail:** jovanikaczalla@gmail.com
 - **Localização:** Rio Grande do Sul, Brasil
 
 ---
